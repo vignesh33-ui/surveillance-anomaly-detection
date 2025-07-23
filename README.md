@@ -40,7 +40,7 @@ This project implements a *proactive anomaly detection system* in real-time surv
 1. Clone the repository:
 
    bash
-   git clone https://github.com/yourusername/surveillance-anomaly-detection.git
+   git clone https://github.com/vignesh33-ui/surveillance-anomaly-detection.git
    cd surveillance-anomaly-detection
    
 
